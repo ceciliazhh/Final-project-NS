@@ -3,4 +3,5 @@
 Assisted with data cleaning, corrected longitude and latitude
 # Hui:
 # Tijana:
+Add weight to the edges
 # Dominik:
