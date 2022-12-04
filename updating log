@@ -3,3 +3,4 @@
 1/12/2022 longtitude data cleaning Tumen
 3/12/2022 adjust the weight according to the occurance frequency in routes
 3/12/2022 created map and added graph with edges and nodes Tumen
+4/12/2022 implemented HALF-BAKED infection (SIR model) and implemneted it on the map Tumen
