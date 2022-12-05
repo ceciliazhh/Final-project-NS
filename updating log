@@ -4,4 +4,5 @@
 3/12/2022 adjust the weight according to the occurance frequency in routes
 3/12/2022 created map and added graph with edges and nodes Tumen
 4/12/2022 implemented HALF-BAKED infection (SIR model) and implemneted it on the map Tumen
-5/12/2122 updated the SIR model (still need to implement counting of infected) Tumen
+5/12/2022 updated the SIR model (still need to implement counting of infected) Tumen
+5/12/2022 Implemented the histogram for visualizing the distribution of infected airports Tumen
