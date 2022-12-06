@@ -6,3 +6,4 @@
 4/12/2022 implemented HALF-BAKED infection (SIR model) and implemneted it on the map Tumen
 5/12/2022 updated the SIR model (still need to implement counting of infected) Tumen
 5/12/2022 Implemented the histogram for visualizing the distribution of infected airports Tumen
+6/12/2022 Polished the histograms and made a function which removes important nodes (with help from code by Tijana) Tumen
