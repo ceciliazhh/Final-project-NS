@@ -8,3 +8,4 @@
 5/12/2022 Implemented the histogram for visualizing the distribution of infected airports Tumen
 6/12/2022 Polished the histograms and made a function which removes important nodes (with help from code by Tijana) Tumen
 06/12/2022 finished the therory and method of Greedy + SIR Hui
+07/12/2022 updated the Greedy algorithm Hui
