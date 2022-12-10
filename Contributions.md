@@ -4,5 +4,5 @@ Assisted with data cleaning, corrected longitude and latitude, cleaned data in c
 # Hui:
 Assisted wit data cleaning, report section: Theory, methods(50%)
 # Tijana:
-Add weight to the edges
+Add weight to the edges, write code for centrality measures + top 5 airport-nodes, which can be removed one by one, write abstract, introduction, analysis and conclusion
 # Dominik:
